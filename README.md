@@ -1,3 +1,20 @@
 # Quarter-4-Project
 This is the project we are making in Intro to Comp Sci 2024.
 My idea is to learn the basics of machine learning using online courses, do the basic iris flower classification and learn what the code does and then create my own type of classification based off of the iris flower code. 
+
+### Project Schedule
+
+Week 1: Continue working on Kaggle Course, 80% done
+Week 1.5 (May 1): Finish the Kaggle Course, 100% done
+Week 2 (May 3): Google Machine Learning Course, https://developers.google.com/machine-learning/crash-course/ml-intro
+Week 3 (tentative, might move it down one week to finish google course): Begin Iris Flower Classification (understanding the code, googling explanations), https://www.youtube.com/watch?v=yjiACt2Cdjo, https://www.kaggle.com/code/ammarnassanalhajali/4-classifying-iris-species-course-1
+Week 4: Finish Iris Flower Classification 
+Week 5: Start my own classification, maybe different color roses, some other flower or maybe baked goods (tbd chocolate croissants vs regular???)
+Week 6: Finish my own classification code (doesn't have to be too complicated)
+
+
+
+### Progress
+
+Day 1: 19% of Kaggle Course
+Day 2: Finished scheduling and finding courses, 31% done with Kaggle course
