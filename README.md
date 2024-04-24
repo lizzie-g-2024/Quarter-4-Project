@@ -18,3 +18,4 @@ Week 6: Finish my own classification code (doesn't have to be too complicated)
 
 Day 1: 19% of Kaggle Course (Link to my notes: https://docs.google.com/document/d/1bUflBKO5QvhsDQULDkfeq00q8CpCFf4D8CQJmOcrnEA/edit)
 Day 2: Finished scheduling and finding courses, 31% done with Kaggle course  
+Day 3: 46% done with Kaggle (finished first model with step by step)  
