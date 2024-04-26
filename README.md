@@ -4,7 +4,7 @@ My idea is to learn the basics of machine learning using online courses, do the 
 
 ### Project Schedule
 
-Week 1: Continue working on Kaggle Course, 80% done  
+Week 1: Continue working on Kaggle Course, 80% done (https://www.kaggle.com/learn/intro-to-machine-learning)  
 Week 1.5 (May 1): Finish the Kaggle Course, 100% done  
 Week 2 (May 3): Google Machine Learning Course, https://developers.google.com/machine-learning/crash-course/ml-intro  
 Week 3 (tentative, might move it down one week to finish google course): Begin Iris Flower Classification (understanding the code, googling explanations), https://www.youtube.com/watch?v=yjiACt2Cdjo, https://www.kaggle.com/code/ammarnassanalhajali/4-classifying-iris-species-course-1  
