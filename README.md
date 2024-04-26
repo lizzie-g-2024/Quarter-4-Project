@@ -20,3 +20,4 @@ Day 1: 19% of Kaggle Course (Link to my notes: https://docs.google.com/document/
 Day 2: Finished scheduling and finding courses, 31% done with Kaggle course  
 Day 3: 46% done with Kaggle (finished first model with step by step)  
 Day 4: 62% done with Kaggle (learned about validation data and validating our last model with a splitting data technique)
+Day 5: 92% done with Kaggle (Am up to a competition submission but I may not do that)
