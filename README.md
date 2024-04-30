@@ -22,3 +22,4 @@ Day 3: 46% done with Kaggle (finished first model with step by step)
 Day 4: 62% done with Kaggle (learned about validation data and validating our last model with a splitting data technique)  
 Day 5: 92% done with Kaggle (Am up to a competition submission but I may not do that)  
 Day 6 (April 29): Done with Kaggle, Descending into ML mod of Google Crash Course on section called Linear Regression  
+Day 7 (April 30): Finished last mod and began a new one "Reducing Loss" on the section called Gradient Descent. Learning about square loss models and descent's  
