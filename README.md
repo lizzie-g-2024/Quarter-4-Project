@@ -24,3 +24,4 @@ Day 5: 92% done with Kaggle (Am up to a competition submission but I may not do 
 Day 6 (April 29): Done with Kaggle, Descending into ML mod of Google Crash Course on section called Linear Regression  
 Day 7 (April 30): Finished last mod and began a new one "Reducing Loss" on the section called Gradient Descent. Learning about square loss models and descent's  
 Day 8 (May 2): Can't do the playground exercises because it's blocked on chrome (maybe do it at home?). Also won't let me do Tenserflow exercises. Got to Generalization. video lecture. Might have to do a slight shift of plans if the course continues to be blocked and I can't do exercises.    
+Day 9 (May 3): Finished Generalization, Training and Test Sets , Validation Sets and started with Representation. Learned about why we use validation sets and the intricacies of ML that causes us to avoid overfitting and using the partitioning of data.  
