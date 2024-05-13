@@ -29,4 +29,4 @@ Day 10 (May 6): Started working on Quarter 4 presentation. https://docs.google.c
 Day 11 (May 7): Continued and finished working on Quarter 4 Presentation. Got up to Feature Engineering  
 Day 12 (May 8): Polished Q4 Project. Almost finished Representation Unit and am on Cleaning Data portion  
 Day 13 (May 9): Finished Representation and Feature Crossing. Am on regularization and on Lambda.  
-Day 14  (May 13): Finished Regularization, Logistic Regression, and am on Classification section "True vs False". Also completed survey on Comp-Sci class.  
+Day 14  (May 13): Finished Regularization, Logistic Regression, and am on Classification section "Accuracy". Also completed survey on Comp-Sci class.  
