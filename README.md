@@ -30,4 +30,4 @@ Day 11 (May 7): Continued and finished working on Quarter 4 Presentation. Got up
 Day 12 (May 8): Polished Q4 Project. Almost finished Representation Unit and am on Cleaning Data portion  
 Day 13 (May 9): Finished Representation and Feature Crossing. Am on regularization and on Lambda.  
 Day 14  (May 13): Finished Regularization, Logistic Regression, and am on Classification section "Accuracy". Also completed survey on Comp-Sci class.  
-Did classificatin accuracy  
+Day 15 (May 14): Finished Classification Accuracy and continued with Precision and Recall    
