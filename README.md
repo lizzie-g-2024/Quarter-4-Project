@@ -32,3 +32,4 @@ Day 13 (May 9): Finished Representation and Feature Crossing. Am on Regularizati
 Day 14  (May 13): Finished Regularization, Logistic Regression, and am on Classification section "Accuracy". Also completed survey on Comp-Sci class.  
 Day 15 (May 14): Finished Classification Accuracy and continued with Precision and Recall    
 Day 16 (May 15): Finished Classification and am on Regularization:Sparcity, L1 Regularization 
+Day 17 (May 16): Finished Regularization: Sparcity and am on Neural Networks, Structure  
