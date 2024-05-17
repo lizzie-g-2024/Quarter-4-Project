@@ -33,3 +33,4 @@ Day 14  (May 13): Finished Regularization, Logistic Regression, and am on Classi
 Day 15 (May 14): Finished Classification Accuracy and continued with Precision and Recall    
 Day 16 (May 15): Finished Classification and am on Regularization:Sparcity, L1 Regularization 
 Day 17 (May 16): Finished Regularization: Sparcity and am on Neural Networks, Structure  
+Day 18 (May 17): Finished Neural Networks and Training Neural Networks. I am on Multi-Class Neural Networks, One vs All.   
