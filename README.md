@@ -34,4 +34,5 @@ Day 15 (May 14): Finished Classification Accuracy and continued with Precision a
 Day 16 (May 15): Finished Classification and am on Regularization:Sparcity, L1 Regularization 
 Day 17 (May 16): Finished Regularization: Sparcity and am on Neural Networks, Structure  
 Day 18 (May 17): Finished Neural Networks and Training Neural Networks. I am on Multi-Class Neural Networks, One vs All.   
-Day 19 (May 20): Finished Multi-Class Neural Networks and am on Embeddings  
+Day 19 (May 20): Finished Multi-Class Neural Networks and am on Embeddings    
+Day 20 (May 24): Finished Embeddings, the Entire ML concepts section of the course, ML Engineering, and am going to watch a video on Cancer Prediction using ML
