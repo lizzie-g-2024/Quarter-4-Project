@@ -35,5 +35,6 @@ Day 16 (May 15): Finished Classification and am on Regularization:Sparcity, L1 R
 Day 17 (May 16): Finished Regularization: Sparcity and am on Neural Networks, Structure  
 Day 18 (May 17): Finished Neural Networks and Training Neural Networks. I am on Multi-Class Neural Networks, One vs All.   
 Day 19 (May 20): Finished Multi-Class Neural Networks and am on Embeddings    
-Day 20 (May 24): Finished Embeddings, the Entire ML concepts section of the course, ML Engineering, and am going to watch a video on Cancer Prediction using ML
-Day 21 (May 28): Started ML Iris Flower Classification; https://opensource.com/article/18/4/metrics-monitoring-and-python , https://data-flair.training/blogs/iris-flower-classification/ , https://www.kaggle.com/code/nathsubhajit/iris-flower-classification/notebook
+Day 20 (May 24): Finished Embeddings, the Entire ML concepts section of the course, ML Engineering, and am going to watch a video on Cancer Prediction using ML  
+Day 21 (May 28): Started ML Iris Flower Classification; https://opensource.com/article/18/4/metrics-monitoring-and-python , https://data-flair.training/blogs/iris-flower-classification/ , https://www.kaggle.com/code/nathsubhajit/iris-flower-classification/notebook  
+Day 22 (May 29): Worked on Google slides the entire class and putting together all the resources I used on my slides
