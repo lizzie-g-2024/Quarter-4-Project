@@ -1,0 +1,24 @@
+(started 2 days ago)
+
+import numpy as np # linear algebra, allows you to perform mathematical equations automatically. 
+import pandas as pd # imports panda library
+import matplotlib.pyplot as plt# helps create groups and containers
+import seaborn as sns# takes matplotlib data and containers and uses it to create graphs and images from it
+import warnings
+warnings.filterwarnings('ignore') #alerts user of anything that doesn't work in the code 
+iris=pd.read_csv(r'/kaggle/input/iris-flower-dataset/IRIS.csv')# had to import the iris flower dataset into our notebook first, found in "input" and then you read it by pd.read.csv and you link the name of the iris dataset to then label that data set as iris.
+iris.describe() #will show you all the data in the dataset
+iris.groupby('species').mean()#groups it by the label of "species" and gets the mean
+iris.plot.hist(subplots=True, layout=(2,2), figsize=(10, 10), bins=20)
+plt.show()
+from sklearn.model_selection import train_test_split # most used library in modeling dataframes, used for predictions. Also helps in splitting up your data in 2, both testing data and training data. Training X, testing it against other X values and its Y answers (Y_test) against the Y_train 
+from sklearn import metrics #helps calculate model loss as a metric. Also is certain amount of something at a specific time
+from sklearn.metrics import accuracy_score
+from sklearn.metrics import mean_absolute_error
+x=iris.drop('species', axis=1) #removes the species column from X so we aren't training our model with the answers of what its trying to predict
+y=iris.species
+x_train, x_test, y_train, y_test = train_test_split(x, y, random_state=0) #splits x and y into training data and testing data so that we have accuracte data to predict loss with.
+iris_prediction=iris.predict(x_train)
+print(metrics.accuracy_score(y, y_pred)) #if we don't classify this then the model will try to get a loss of 0 and will overfit our model
+from sklearn.metrics import classification_report
+print(classification_report(y_test, y_pred))
