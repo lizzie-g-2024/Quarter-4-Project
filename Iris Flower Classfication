@@ -1,5 +1,4 @@
-(started 2 days ago)
-
+(started 2 days before May 30)
 import numpy as np # linear algebra, allows you to perform mathematical equations automatically. 
 import pandas as pd # imports panda library
 import matplotlib.pyplot as plt# helps create groups and containers
@@ -15,10 +14,18 @@ from sklearn.model_selection import train_test_split # most used library in mode
 from sklearn import metrics #helps calculate model loss as a metric. Also is certain amount of something at a specific time
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import mean_absolute_error
-x=iris.drop('species', axis=1) #removes the species column from X so we aren't training our model with the answers of what its trying to predict
+from sklearn.tree import DecisionTreeRegressor
+one_hot_encoded_data = pd.get_dummies(iris, columns = ['sepal_length', 'sepal_width','petal_length','petal_width'])
+X=iris.drop('species', axis=1) #removes the species column from X so we aren't training our model with the answers of what its trying to predict
 y=iris.species
-x_train, x_test, y_train, y_test = train_test_split(x, y, random_state=0) #splits x and y into training data and testing data so that we have accuracte data to predict loss with.
-iris_prediction=iris.predict(x_train)
+X_train, X_test, y_train, y_test = train_test_split(X, y, random_state=0) #splits x and y into training data and testing data so that we have accuracte data to predict loss with.
+iris=DecisionTreeRegressor(random_state=1)
+iris.fit(X_train,y_train)
+iris_prediction=iris.predict(X)
 print(metrics.accuracy_score(y, y_pred)) #if we don't classify this then the model will try to get a loss of 0 and will overfit our model
 from sklearn.metrics import classification_report
 print(classification_report(y_test, y_pred))
+
+
+
+
