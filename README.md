@@ -38,3 +38,4 @@ Day 19 (May 20): Finished Multi-Class Neural Networks and am on Embeddings
 Day 20 (May 24): Finished Embeddings, the Entire ML concepts section of the course, ML Engineering, and am going to watch a video on Cancer Prediction using ML  
 Day 21 (May 28): Started ML Iris Flower Classification; https://opensource.com/article/18/4/metrics-monitoring-and-python , https://data-flair.training/blogs/iris-flower-classification/ , https://www.kaggle.com/code/nathsubhajit/iris-flower-classification/notebook  
 Day 22 (May 29): Worked on Google slides the entire class and putting together all the resources I used on my slides
+Day 23 (May 30): Continued on Iris Flower code, tried One-hot encoding although it isn't working in the way I want and I'm not sure why
